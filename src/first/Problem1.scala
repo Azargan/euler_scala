@@ -1,7 +1,5 @@
 package first
 
-import scala.annotation.tailrec
-
 /**
  * Created by azargan on 06.08.15.
  */
